@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihanaitbella&label=Profile%20views&color=0e75b6&style=flat" alt="fatihanaitbella" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihanaitbella" alt="fatihanaitbella" /></a> </p>
+- 🌱 I’m currently learning **Full-Stack development with React & JavaScript ,PHP**
+
+- 📫 How to reach me **www.linkedin.com/in/fatiha-n-ait-bella-688782216**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
