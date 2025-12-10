@@ -14,7 +14,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fatihanaitbella)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatiha-n-ait-bella)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatiha-n-ait-bella-688782216)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naitbellafatiha06@gmail.com)
 
 
